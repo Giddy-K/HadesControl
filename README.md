@@ -20,10 +20,10 @@ Features
   * CMD
   * Powershell
   * **Any** other console app
-* Keylogger **(new)** [16.09.2017]
-* Execute predefined Scripts **(new)** [16.09.2017]
+* Keylogger **(new)** [12.09.2024]
+* Execute predefined Scripts **(new)** [12.09.2024]
 * Extreme Modularity (see [this](#modularity))
-* Broadcast Commands to all Clients **(new)** [15.09.2017]
+* Broadcast Commands to all Clients **(new)** [12.09.2024]
 * Multiple Connections
 * Auto-Install
 * Startup Persistence
@@ -71,7 +71,7 @@ Requirements
   * Windows 8/8.1
   * Windows 10
 
-[To-Do](https://github.com/werkamsus/lilith/blob/master/todo.md)
+[To-Do](https://github.com/Giddy-K/HadesControl/blob/main/todo.md)
 ---
 
 # More Info on Commands
