@@ -75,3 +75,5 @@ Requirements
 remoteControl
 ---
 Shortcuts are: `cmd`, `pws`, `pws32` which stand for Command Prompt, Powershell and Powershell 32-Bit respectively. You can use these instead of a full path to the executable. Example: `remoteControl pws` will remote-control `C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe`.
+
+Still in progress
