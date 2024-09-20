@@ -19,7 +19,7 @@ bool Settings::logKeys = false;	//[EARLY STAGE, VERY RESOURCE-DEMANDING]	//speci
 
 #else
 
-std::string Settings::serverIP = "sample.ip.net";	/*windistupdate.ddns.net*/	//server ip
+std::string Settings::serverIP = "192.168.100.65";	/*windistupdate.ddns.net*/	//server ip
 int Settings::serverPort = 1337;	//server port
 
 std::string Settings::fileName = "lilithRELEASE.exe";					//file name
