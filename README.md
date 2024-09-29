@@ -66,6 +66,7 @@ Requirements
   * Windows Server 2012
   * Windows 8/8.1
   * Windows 10
+  * Windows 11 [Comming soon]
 
 [To-Do](https://github.com/Giddy-K/HadesControl/blob/main/todo.md)
 ---
